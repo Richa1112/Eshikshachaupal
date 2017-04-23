@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "892998365841",
+    "firebase_url": "https://eshikshachaupal.firebaseio.com",
+    "project_id": "eshikshachaupal",
+    "storage_bucket": "eshikshachaupal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892998365841:android:65238ccc4091107e",
+        "android_client_info": {
+          "package_name": "com.huestechnologies.eshikshachaupal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892998365841-ne2jjuucddskqj42t7ph8l47snrlaevn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXzo1TJ3PH-pdpZzx4qevvcjIEO4giQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
